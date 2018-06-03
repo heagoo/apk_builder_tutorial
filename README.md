@@ -16,3 +16,10 @@ Git Clone:
 https://youtu.be/IekIW37AyPo  
 Special Keys:
 https://youtu.be/addhLeSie-Y  
+
+**Sample Projects:**
+
+Flashlight:
+https://github.com/heagoo/flashlight  
+Odex Patcher:
+https://github.com/heagoo/odex_patcher
