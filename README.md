@@ -22,4 +22,6 @@ https://youtu.be/addhLeSie-Y
 Flashlight:
 https://github.com/heagoo/flashlight  
 Odex Patcher:
-https://github.com/heagoo/odex_patcher
+https://github.com/heagoo/odex_patcher  
+Lock Screen:
+https://github.com/hyy12345678/LockScreen
