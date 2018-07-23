@@ -19,9 +19,14 @@ https://youtu.be/addhLeSie-Y
 
 **Sample Projects:**
 
+You could git clone following projects, and compile it inside APK Builder.  
 Flashlight:
 https://github.com/heagoo/flashlight  
 Odex Patcher:
 https://github.com/heagoo/odex_patcher  
-Lock Screen:
-https://github.com/hyy12345678/LockScreen
+Beauty:
+https://github.com/justlikebeauty/beauty  
+ColorPhun (Game):
+https://github.com/prakhar1989/colorphun  
+Memory Game (Game):
+https://github.com/sromku/memory-game  
