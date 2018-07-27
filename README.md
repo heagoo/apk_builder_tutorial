@@ -32,5 +32,5 @@ https://github.com/prakhar1989/colorphun
 https://github.com/sromku/memory-game  
 [Game] Open Flood:
 https://github.com/GunshipPenguin/open_flood  
-[Tool] Picture Mosaic:
+[TOOL] Picture Mosaic:
 https://github.com/dawsonice/ProMosaic  
