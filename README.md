@@ -26,9 +26,11 @@ Odex Patcher:
 https://github.com/heagoo/odex_patcher  
 Beauty:
 https://github.com/justlikebeauty/beauty  
-ColorPhun (Game):
+[Game] ColorPhun:
 https://github.com/prakhar1989/colorphun  
-Memory Game (Game):
+[Game] Memory Game:
 https://github.com/sromku/memory-game  
-Open Flood (Game):
+[Game] Open Flood:
 https://github.com/GunshipPenguin/open_flood  
+[Tool] Picture Mosaic:
+https://github.com/dawsonice/ProMosaic  
