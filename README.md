@@ -36,3 +36,5 @@ https://github.com/GunshipPenguin/open_flood
 https://github.com/apkbuilder/greenwall  
 [TOOL] Picture Mosaic:
 https://github.com/dawsonice/ProMosaic  
+[TOOL] Clean Status Bar:
+https://github.com/emmaguy/clean-status-bar  
