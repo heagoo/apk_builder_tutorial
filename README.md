@@ -1,5 +1,5 @@
 # apk_builder_tutorial
-This project collects some videos and samples for how to use APK Builder.
+This project collects some videos and samples for how to use APK Builder. And it is periodically updated.
 
 **Get Started:**
   
@@ -38,3 +38,5 @@ https://github.com/apkbuilder/greenwall
 https://github.com/dawsonice/ProMosaic  
 [TOOL] Clean Status Bar:
 https://github.com/emmaguy/clean-status-bar  
+[TOOL] Clip Stack:
+https://github.com/heruoxin/Clip-Stack  
